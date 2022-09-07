@@ -162,5 +162,3 @@
 <p>Todas as images foram utilizadas a partir da API do <a href="https://source.unsplash.com" >Unsplash</a> </p>
 
 </br>
-
-<p>Desenvolvido com ❤️ por <a href="https://github.com/Fekleite">Fernanda Leite </a></p>
